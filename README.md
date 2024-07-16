@@ -1,5 +1,9 @@
 # From-.com-to-.meta-evolution-of-domain-names
 
+<div class="image-container">
+<img src="https://github.com/Avamichelle/From-.com-to-.meta-evolution-of-domain-names/blob/main/How%20to%20select%20a%20good%20metaverse%20domain%20to%20invest%20in%20(12).png" alt="Are Metaverse Domains A Good Investment Source">
+</div>
+
 ## Introduction
 
 As the internet continues to evolve, so do the domain names that form its backbone. From the early days of .com to the cutting-edge .meta, domain names have been integral to our online experience. This evolution reflects the changing needs and technologies of the digital world. In this article, we explore the journey from traditional domain names to metaverse domains, highlighting why the .meta extension is poised to revolutionize our online interactions.
